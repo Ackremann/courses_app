@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987797146773",
+    "project_id": "droos-app-d146e",
+    "storage_bucket": "droos-app-d146e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987797146773:android:d14617f9e51fd15d309f9c",
+        "android_client_info": {
+          "package_name": "com.example.courses_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987797146773-7la56mlab99pardup5t45khftsvrj4da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.courses_app",
+            "certificate_hash": "2172f395c7070e38aeccd40b1594f790ab7d0f1a"
+          }
+        },
+        {
+          "client_id": "987797146773-8716qb5963ttjbnfr3n0tttuec53iatk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptB4gf9EmmEpJKvEk3gAaS6X57vlceiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987797146773-8716qb5963ttjbnfr3n0tttuec53iatk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
